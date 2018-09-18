@@ -1,0 +1,7 @@
+C:\Users\Orest\source\repos\HW10\HW10\bin\Debug\HW10.exe.config
+C:\Users\Orest\source\repos\HW10\HW10\bin\Debug\HW10.exe
+C:\Users\Orest\source\repos\HW10\HW10\bin\Debug\HW10.pdb
+C:\Users\Orest\source\repos\HW10\HW10\obj\Debug\HW10.csprojAssemblyReference.cache
+C:\Users\Orest\source\repos\HW10\HW10\obj\Debug\HW10.csproj.CoreCompileInputs.cache
+C:\Users\Orest\source\repos\HW10\HW10\obj\Debug\HW10.exe
+C:\Users\Orest\source\repos\HW10\HW10\obj\Debug\HW10.pdb
